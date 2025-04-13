@@ -12,10 +12,12 @@ theme_settings :
     image : assets/img/smile.png
     username : Anab Maulana Barik
     description : Anab is a PhD candidate in Computer Science, National University of Singapore. His research focus in Natural Language Processing, specifically in Automated Claim Verification.
+    email: anabmaulana [at] u.nus.edu
         
   # Icons
   icons :
     email:  maulanaanab@gmail.com
+    google_scholar: https://scholar.google.com/citations?user=bSW0QS0AAAAJ&hl=en
     linkedin:  https://www.linkedin.com/in/anabmaulana/
     github: seelenbrecher
     gitlab: 
