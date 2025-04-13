@@ -1,30 +1,23 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://maulanaanab.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Anab Maulana Barik
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
-    skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+    username : Anab Maulana Barik
+    description : Anab is a PhD candidate in Computer Science, National University of Singapore. His research focus in Natural Language Processing, specifically in Automated Claim Verification.
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email:  maulanaanab@gmail.com
+    linkedin:  https://www.linkedin.com/in/anabmaulana/
+    github: seelenbrecher
     gitlab: 
     bitbucket: 
     google_plus:
