@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: "maulanaanab.github.io/"
+baseurl: ""
 url : "https://seelenbrecher.github.io/"
 
 # Blog Settings
@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/anab.png
     username : Anab Maulana Barik
     description : Anab is a PhD candidate in Computer Science, National University of Singapore. His research focus in Natural Language Processing, specifically in Automated Claim Verification.
     email: anabmaulana [at] u.nus.edu
