@@ -16,11 +16,11 @@
 </div>
 <!-- Tag Navigation -->
 <div id="tag-wrap">
-  <a href="{{ site.url }}/tags">
+  <a href="{{ site.url }}/{{ site.baseurl }}/tags">
     <p class="title">TAGS</p>
   </a>
   {% for tag in site.tags %}
-  <a href="{{site.baseurl}}/tags#{{ tag | first | cgi_encode }}">
+  <a href="/tags#{{ tag | first | cgi_encode }}">
     <span class="tag">{{ tag | first }}</span>
   </a>
   {% endfor %}
