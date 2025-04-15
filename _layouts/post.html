@@ -8,7 +8,30 @@ layout: page
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
     </p>
+
+    <div class="d-flex flex-row flex-wrap justify-content-center">
+      {% if page.pdf %}
+        <a href="{{ page.pdf }}" target="_blank" class="">
+          <div class="align-items-center icon-button px-4 bg-dark-important">
+            <i class="fa fa-file-pdf me-2 text-white-important"></i>
+            <span class="bg-dark-important text-white-important">Paper</span>
+          </div>
+        </a>
+      {% endif %}
+      {% if page.code %}
+        <a href="{{ page.pdf }}" target="_blank" class="">
+          <div class="align-items-center icon-button px-4 bg-dark-important">
+            <i class="fab fa-github me-2 text-white-important"></i>
+            <span class="bg-dark-important text-white-important">Code</span>
+          </div>
+        </a>
+      {% endif %}
+    </div>
+    
   </section>
+  
+
+
   <section class="post-content">
     {{ content }}
   </section>

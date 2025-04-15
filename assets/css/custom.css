@@ -1,0 +1,32 @@
+.button.is-normal {
+    font-size: 1rem;
+}
+
+.button.is-dark {
+    background-color: #363636;
+    border-color: transparent;
+    color: #fff;
+}
+
+
+/* Important background colors */
+.bg-dark-important {
+background-color: #363636 !important;
+}
+
+/* Important text colors */
+.text-white-important {
+color: white !important;
+}
+
+.text-light-important {
+color: var(--bs-light) !important;
+}
+
+.icon-button {
+    border-radius: 50rem !important;
+    width: 7rem;
+    height: auto;
+    padding: 0.10rem;
+    margin: 0.10rem;
+}

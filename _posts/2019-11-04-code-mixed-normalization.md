@@ -3,7 +3,8 @@ layout: post
 title: Normalization of Indonesian-English Code-Mixed Twitter Data
 subtitle : Anab Maulana Barik, Rahmad Mahendra, Mirna Adriani
 venue: Empirical Methods Natural Language Processing (EMNLP) Workshop W-NUT - The 5th Workshop on Noisy User-generated Text. 2019
-pdf: code-mixed-normalization.pdf
+pdf: https://aclanthology.org/D19-5554.pdf
+code: https://github.com/seelenbrecher/code-mixed-normalization
 tags: [code-mixed, text-normalization, indonesian-english data]
 author: Anab Maulana Barik
 comments : False
