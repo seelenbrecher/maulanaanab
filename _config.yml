@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: "maulanaanab"
-url : "https://seelenbrecher.github.io"
+url : "https://seelenbrecher.github.io/"
 
 # Blog Settings
 theme_settings :
